@@ -3,7 +3,8 @@ title: "Federify: A Verifiable Federated Learning Scheme Based on zkSNARKs and B
 collection: publications
 category: manuscripts
 permalink: /publication/Federify
-excerpt: 'Federify is a decentralized federated learning framework that uses blockchain, homomorphic encryption, and zero-knowledge proofs to ensure privacy, security, and transparency without relying on a central server.'
+excerpt: 'Authors: Ghazaleh Keshavarzkalhori, Cristina Perez-Sola, Guillermo Navarro-Arribas, Jordi Herrera-Joancomarti, Habib Yajam <br>
+    Federify is a decentralized federated learning framework that uses blockchain, homomorphic encryption, and zero-knowledge proofs to ensure privacy, security, and transparency without relying on a central server.'
 date: 2023-12-25
 venue: 'IEEE Access'
 slidesurl: 'https://www.youtube.com/watch?v=G8V6AhnDBoA'

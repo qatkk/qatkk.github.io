@@ -3,7 +3,8 @@ title: "Unmasking the Illusion: The Shortcomings of “Zero-Knowledge” Rollups
 collection: publications
 category: conferences
 permalink: /publication/Unmasking
-excerpt: 'ZK-Rollups improve blockchain scalability and cost efficiency using ZK-SNARKs but lack true transaction privacy. The paper highlights this gap, reviews emerging privacy solutions, and suggests renaming ZK-Rollups to better reflect their actual capabilities.'
+excerpt: 'Authors: Adria TORRALBA-AGELL, Ghazaleh Keshavarzkalhori, Cristina PEREZ-SOLA, David Megías, Jordi HERRERA-JOANCOMARTÍ<br>
+    ZK-Rollups improve blockchain scalability and cost efficiency using ZK-SNARKs but lack true transaction privacy. The paper highlights this gap, reviews emerging privacy solutions, and suggests renaming ZK-Rollups to better reflect their actual capabilities.'
 date: 2024-10-23
 venue: 'XVIII Reunión Española sobre Criptología y Seguridad de la Información'
 paperurl: 'https://www.0xadriatorralba.me/assets/pdf/Unmasking%20the%20Illusion%20the%20Shortcomings%20of%20Zero-Knowledge%20Rollups%20in%20Achieving%20Privacy%20-%20Adrià%20Torralba-Agell%20et%20al.%20-%202024.pdf'

@@ -3,7 +3,8 @@ title: "A blockchain-based privacy-preserving anti-collusion data auction mechan
 collection: publications
 category: manuscripts
 permalink: /publication/Auction
-excerpt: 'A blockchain-based smart contract auction system is proposed to make big data trading fair, secure, and private, overcoming trust and collusion issues in centralized auctions.'
+excerpt: 'Authors: Ashkan Emami, Ghazaleh Keshavarz Kalhori, Sheyda Mirzakhani, Mohammad Ali Akhaee <br>
+    A blockchain-based smart contract auction system is proposed to make big data trading fair, secure, and private, overcoming trust and collusion issues in centralized auctions.'
 date: 2023-11-08
 venue: 'Journal of Supercomputing'
 # slidesurl: 'https://link.springer.com/article/10.1007/s11227-023-05736-9'

@@ -3,7 +3,8 @@ title: "Building Resilient AI: A Solution to Data and Model Poisoning Prevention
 collection: publications
 category: conferences
 permalink: /publication/Resilient-AI
-excerpt: 'A cryptography-based scheme using hashes, signatures, and zero-knowledge proofs is proposed to protect machine learning from data and model poisoning, ensuring secure and verifiable training.'
+excerpt: 'Authors: Ghazaleh Keshavarzkalhori, Cristina Perez-Solá, Guillermo Navarro-Arribas, Jordi Herrera-Joancomartí<br>
+    A cryptography-based scheme using hashes, signatures, and zero-knowledge proofs is proposed to protect machine learning from data and model poisoning, ensuring secure and verifiable training.'
 date: 2024-02-17
 venue: '17th International Conference on Security of Information and Networks (SIN)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10871752'
