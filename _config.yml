@@ -184,7 +184,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  PRs:
+  contributions:
     output: true
     permalink: /:collection/:path/
   talks:
