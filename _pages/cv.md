@@ -23,7 +23,6 @@ Talks
   {% endfor %}</ul>
   
 
-Please find my full CV [here](/files/CV.pdf) 
 
 <!-- Teaching
 ======
