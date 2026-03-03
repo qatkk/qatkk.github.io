@@ -1,7 +1,7 @@
 ---
 title: "Privacy in Lightning Network Channel Announcements"
 collection: Projects
-category: Projects
+category: projects
 permalink: /publication/PrivChannels
 excerpt: 'Master Thesis Project'
 date: 2025-09-09
